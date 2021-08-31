@@ -2,6 +2,8 @@ welcome git!!!
 
 Hello world...
 
-third modification
+third modification.
 
-Change to fix bug1
+Change to fix bug1.
+
+Change to fix bug2.
