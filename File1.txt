@@ -1,5 +1,7 @@
 welcome git!!!
 
-Hello world..
+Hello world...
 
 third modification
+
+Change to fix bug1
