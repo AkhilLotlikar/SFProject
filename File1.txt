@@ -17,6 +17,10 @@ Change 4-> to fix bug2.
 
 Change 5-> to work on CR1.
 
-for non remote master by tem mate forCR2 to check fetch
+Change 6-> non remote master by tem mate forCR2 to check fetch
+
+Change for Stash.
+
+Change 7 -> for WI 8 on local master to check fetch bore push
 
 
