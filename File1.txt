@@ -2,7 +2,13 @@ welcome git!!!
 
 Hello world...
 
-third modification
+third modification.
 
 Change- to fix bug1
-Change- for WI3 by team mate
+
+Change- for WI3 by team mate.
+
+Change to fix bug1.
+
+Change- to fix bug2.
+
