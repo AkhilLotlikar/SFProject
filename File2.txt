@@ -1,2 +1,3 @@
 Add mtluple files
 Check simple push WI6
+check oull from remote master to local master for WI7
